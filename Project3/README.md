@@ -15,7 +15,7 @@ Create code using python `xarray` to organize and reduce climate data and plot w
 - Plotting options
 
 #### Outputs:
-- Aggregated daily rainfall data from GPCP from 1981 to 2010
+- Aggregated daily rainfall data from GPCP from 1997 to 2019
 - From NCEP,
   - 250 hPa wind vectors and wind speed, 
   - 500 hPa wind vectors and geopotential height,

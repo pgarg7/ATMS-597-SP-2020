@@ -37,7 +37,7 @@ drive.mount('/content/drive')
 # We assume the aggregated data is stored in the datasets folder
 PROJECT_ROOT_DIR = "./"
 DATA_DIRECTORY = os.path.join(PROJECT_ROOT_DIR, "datasets/")
-REFERENCE_PERIOD = "1981-2010"
+REFERENCE_PERIOD = "1997-2019"
 REFERENCE_CITY = "Shanghai_JJA"
 field_types = ["anomaly", "extreme", "ltm"]
 IMAGES_PATH = os.path.join(PROJECT_ROOT_DIR, "images/")
